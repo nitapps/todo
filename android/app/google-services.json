@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "478466825426",
+    "project_id": "todo-72b62",
+    "storage_bucket": "todo-72b62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478466825426:android:52a46b2c74465b89fa210b",
+        "android_client_info": {
+          "package_name": "com.nitesh.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478466825426-4ckclk0ede6svmbk1rffv0imtk7fk8jg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYIPOdN2oEcSv9eMjC3QxFYtBJb8ZCW4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478466825426-4ckclk0ede6svmbk1rffv0imtk7fk8jg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478466825426-utu6bo51susu99fiotphvrr7bjk3v0hj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nitesh.todo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
